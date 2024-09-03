@@ -9,9 +9,9 @@ El archivo index.html muestra una plantilla para comenzar con la programación d
 
 ---
 Los objetivos son:
-1. Agregar elementos en una tabla
-2. Validar la información de los campos
-3. Crear un precio por producto al azar
+1.[*] Agregar elementos en una tabla
+2.[*] Validar la información de los campos (completado)
+3.[*]Crear un precio por producto al azar
 4. Realizar las operaciones para conocer el total de elementos
 5. Realizar las operaciones para conocer el total en costo
 6. Almacenar la información en el almacenamiento local del navegador
